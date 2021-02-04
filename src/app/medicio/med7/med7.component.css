@@ -1,0 +1,66 @@
+.line{
+    border: 1px solid black;
+    width: 100px;
+    margin-left: 600px;
+}
+
+.container-fluid{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.btn{
+    width: 120px;
+    color: white;
+    font-weight: bld;
+}
+
+.btn:hover{
+    border: 1px solid black;
+    background-color: silver;
+}
+
+.cf{
+    background-color: rgb(116, 207, 243);
+}
+
+.ch{
+    background-color: darkgrey;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.ch1{
+    color: white;
+    background-color: rgb(80, 78, 78);
+    padding: 35px;
+}
+
+.ch2{
+    color: white;
+    background-color: rgb(19, 186, 236);
+    padding: 45px;
+}
+
+.cross{
+    text-decoration: line-through;
+    color: silver;
+}
+
+.fa-check{
+    color: green;
+}
+
+.fa-close{
+    color: red;
+}
+
+.c1{
+    margin-top: 40px;
+}
+
+.c1:hover{
+    margin-top: -10px;
+    box-shadow: 5px 5px rgb(145, 143, 143);
+}

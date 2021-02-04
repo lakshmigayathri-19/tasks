@@ -1,0 +1,10 @@
+.line{
+    border: 1px solid black;
+    width: 100px;
+    margin-left: 600px;
+}
+
+.container-fluid{
+    text-align: center;
+    margin: 3% 0 3% 0;
+}

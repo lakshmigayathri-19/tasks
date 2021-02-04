@@ -1,0 +1,29 @@
+.container-fluid{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url("D:/angular/task/src/assets/medbg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    padding-top: 28px;
+    margin-top: 3%;
+}
+
+.checked{
+    color: black;
+}
+
+.card{
+    padding: 20px;
+    margin-bottom: 20px;
+    height: 200px;
+    width: 350px;
+    text-align: left;
+}
+
+.row{
+    margin-left: 8px;
+}
+
+.col-md-4{
+    text-align: center;
+}

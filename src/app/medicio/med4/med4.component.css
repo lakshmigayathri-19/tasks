@@ -1,0 +1,26 @@
+.line{
+    border: 1px dotted black;
+    width: 90px;
+    margin-left: 620px;
+}
+
+.container-fluid{
+    margin-top: 3%;
+}
+
+h3{
+    text-align: center;
+}
+
+h5{
+    color: aqua;
+}
+
+img{
+    border: 1px solid black;
+}
+
+.nav{
+    margin-bottom: 3%;
+}
+

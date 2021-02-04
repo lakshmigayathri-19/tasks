@@ -1,0 +1,32 @@
+.para{
+    margin-right: 630px;
+    margin-left: 70px;
+}
+
+p{
+    font-weight: bold;
+    color: white;
+}
+
+.n1{
+    padding: 10px 90px 10px 100px;
+    box-shadow: 0 0 10px 0 rgb(124, 123, 123);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 35px;
+}
+
+
+
+span{
+    height: 20px;
+    margin-left: -20px;
+    margin-top: -10px;
+}
